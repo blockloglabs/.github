@@ -1,42 +1,45 @@
 # Blocklog
 
-**Forensic Debugging and Compliance Infrastructure for AI Financial Agents**
+## **Forensic Security & Governance Infrastructure for AI Agents**
 
-Blocklog runs alongside AI agents making financial decisions, capturing every execution to create a complete forensic record of **what happened, why it happened, and how it can be proven**.
+Blocklog runs alongside AI agents making critical decisions and actions, capturing the complete execution trail to establish **what happened, why it happened, and how it can be proven**.
 
-From a single source of truth, Blocklog enables:
+From a single cryptographically verifiable source of truth, Blocklog enables:
 
-* 🔍 **Forensic Replay** — Replay AI decisions exactly as they occurred.
-* 📊 **Decision Provenance** — Trace outputs back to the inputs, tools, and workflow state that produced them.
-* ⏱️ **Input Freshness Tracking** — Measure how stale critical data was at decision time.
-* 📋 **Compliance Reporting** — Generate auditor-ready evidence directly from production executions.
-* 🔐 **Tamper-Resistant Audit Trails** — Cryptographically verify historical decisions.
+* 🔍 **Forensic Replay** — Reconstruct and replay AI decisions and executions to investigate failures and incidents.
+* 📊 **Decision Provenance** — Trace decisions back to the inputs, tools, policies, models, and workflow state that produced them.
+* ⏱️ **Input Freshness Tracking** — Measure the freshness and validity of critical data at decision time.
+* 📋 **Compliance Evidence** — Generate auditor-ready evidence directly from production AI executions.
+* 🔐 **Cryptographic Audit Trails** — Make historical decisions tamper-evident and independently verifiable.
+* 🛡️ **Execution Governance** — Control high-risk AI actions through authorization policies and human approval.
 
 ## Why Blocklog?
 
-Today's AI observability tools help engineers debug systems.
+Today's AI observability tools help engineers understand **what an AI system did**.
 
-Governance platforms help organizations satisfy compliance requirements.
+Governance and compliance platforms help organizations demonstrate **whether AI systems operated within policy**.
 
-**Blocklog bridges both worlds.**
+**Blocklog bridges these worlds.**
 
-The forensic record engineers need to investigate failures is the same evidence regulators need to verify AI decisions. By capturing every decision in shadow mode, Blocklog serves engineering, security, risk, and compliance teams from a single, verifiable timeline.
+The same forensic record engineers need to investigate an AI incident can serve as the evidence security, risk, and compliance teams need to verify how a decision was made.
+
+Blocklog creates a **single, verifiable timeline of AI decisions and actions**, connecting observability, security, governance, and compliance.
 
 ## Roadmap
 
-| Project        | Purpose                                               |
-| -------------- | ----------------------------------------------------- |
-| **Blocklog**   | AI forensic replay and compliance platform            |
-| **Sentinel**   | Human-in-the-loop approvals for high-risk AI actions  |
-| **Traceflow**  | Cross-agent execution tracing                         |
-| **BlackVault** | Agent identity, authorization, and execution security |
+| Project        | Purpose                                                       |
+| -------------- | ------------------------------------------------------------- |
+| **Blocklog**   | AI forensic replay, provenance, and compliance infrastructure |
+| **Sentinel**   | Human-in-the-loop approvals for high-risk AI actions          |
+| **Traceflow**  | Cross-agent execution and causal tracing                      |
+| **BlackVault** | Agent identity, authorization, and execution security         |
 
 ## Mission
 
-We believe every AI decision should be **explainable**, **replayable**, and **auditable**.
+We believe every consequential AI decision should be **explainable, replayable, and auditable**.
 
-Blocklog is building the forensic infrastructure layer for autonomous financial systems.
+Blocklog is building the **forensic and security infrastructure layer for autonomous AI systems**.
 
 ---
 
-**Status:** 🚧 Under active development.
+**Status:** 🚧 Under active development
