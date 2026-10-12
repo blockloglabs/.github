@@ -377,5 +377,3 @@ Contributions, technical feedback, and design-partner discussions are welcome.
 Blocklog is building trust infrastructure for autonomous agents—connecting what an agent did, what it was authorized to do, and what can be independently verified afterward.
 
 **Observe → Prove → Control → Govern**
-
-[Explore the platform](ADD_WEBSITE_URL) · [Read the architecture](ADD_ARCHITECTURE_URL) · [Start a pilot](ADD_PILOT_URL)
