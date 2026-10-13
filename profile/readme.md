@@ -295,19 +295,6 @@ An integration can then connect the captured event to the applicable execution, 
 
 Consult the relevant SDK documentation for the actual API, configuration, authentication requirements, and supported event formats.
 
-### Developer Resources
-
-- **Documentation:** [Add your documentation URL]
-- **API Reference:** [Add your API reference URL]
-- **Architecture:** [Add your architecture URL]
-- **Python SDK:** [Add your Python SDK repository URL]
-- **TypeScript SDK:** [Add your TypeScript SDK repository URL]
-- **Go SDK:** [Add your Go SDK repository URL]
-- **Standalone Verifier:** [Add your verifier repository URL]
-- **Issues and Contributions:** Use the relevant repository's issue tracker.
-
-Replace these placeholders with the actual public URLs before publishing this README.
-
 ---
 
 ## Designed For
